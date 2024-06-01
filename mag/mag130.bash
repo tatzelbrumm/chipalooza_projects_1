@@ -1,0 +1,1 @@
+../../sky130_cm_ip__biasgen/mag/mag130.bash
